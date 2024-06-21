@@ -76,6 +76,13 @@ Untuk menampilkan membuat pelanggan baru dapat menggunakan URL sebagai berikut :
 Hasil dari eksekusi URL di atas dapat dilihat sebagai berikut.
 
 ![WhatsApp Image 2024-06-21 at 00 40 30_08484494](https://github.com/riyandhiwiguna/Tugas_PBO2/assets/147158662/ec7d3272-2857-49c7-b262-5af43c9c4d5d)
+POST /subscriptions 
+
+Untuk menampilkan membuat subscription baru beserta dengan id customer, shipping address, card, dan item yg dibeli dapat menggunakan URL sebagai berikut : `http://localhost:9119/subscriptions`
+Hasil dari eksekusi URL di atas dapat dilihat sebagai berikut.
+
+![WhatsApp Image 2024-06-21 at 16 59 51_ae68e873](https://github.com/riyandhiwiguna/Tugas_PBO2/assets/147158662/bcbe1a0e-0689-45ca-ab45-58d6bfbe33b7)
+
 POST /items
 
 Untuk menampilkan membuat item baru dapat menggunakan URL sebagai berikut : `http://localhost:9119/items/1`
